@@ -21,6 +21,7 @@
 * Mostly using `Vue 2`, has an interest in `Vue 3` and `Vite`
 * Lovely tech stack: Vue CLI + Vue Router + Vuex + Nuxt.js
 * Want to get more familiar about open data and data visualization
+* I'm working for [Wistron](https://www.wistron.com/) as a Frond-end engineer and develope with `React`
   
 ## Others
 
