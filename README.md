@@ -1,6 +1,5 @@
-![Sealman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joeyjin1201&count_private=true&show_icons=true&theme=vue-dark&hide_title=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joeyjin1201&layout=compact&theme=vue-dark)
-
+![Sealman's GitHub Stats](https://github-readme-stats-joeyjin1201.vercel.app/api?username=joeyjin1201&count_private=true&show_icons=true&theme=vue-dark&hide_title=true)
+![Most Used Languages](https://github-readme-stats-joeyjin1201.vercel.app/api/top-langs/?username=joeyjin1201&layout=compact&theme=vue-dark)
 
 ## About Me
 
