@@ -6,7 +6,7 @@
   <img
     src="https://github-readme-stats.vercel.app/api?username=joeyjin1201&show_icons=true&count_private=true&theme=one_dark_pro&rank_icon=github"
     alt="joeyjin1201"
-    height=218
+    height=192
     align="center"
   />
 </a>
@@ -14,7 +14,7 @@
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=joeyjin1201&show_icons=true&hide_title=true&layout=compact&theme=one_dark_pro"
     alt="joeyjin1201"
-    height=218
+    height=192
     align="center"
   />
 </a>
